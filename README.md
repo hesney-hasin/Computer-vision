@@ -16,7 +16,7 @@ This repository contains the laboratory notebooks for **CSE 445**, focusing on i
 | **Lab 1** | `cse-445-lab-1-image-representation.ipynb` | Tensor manipulation, Color spaces (RGB/HSV/LAB), Augmentation, Data Bias. |
 | **Lab 2A** | `cse445-lab2-a-interpretable-cnn-models.ipynb` | CNNs (ConvNeXt), Transfer Learning, Grad-CAM, Robustness Testing. |
 | **Lab 2B** | `cse445-lab2-b-interpretable-transformer-models.ipynb` | Vision Transformers (ViT, Swin), Attention Rollout, Failure Analysis. |
-| **Lab 3** | *Coming Soon* | *Placeholder for future uploads* |
+
 
 ---
 
