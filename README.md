@@ -136,6 +136,13 @@ occluded tracks.
 **BoT-SORT** — Extends ByteTrack with camera motion compensation
 and Re-ID feature matching for more stable long-term tracking.
 
+## 🎬 Tracking Demo Videos
+
+| Tracker | Demo |
+| :--- | :--- |
+| ByteTrack | [▶ Watch Video](https://drive.google.com/file/d/1dzw7R4RTzWOm3mdx_1wdWVhgJKN3boFV/view?usp=sharing) |
+| BoT-SORT | [▶ Watch Video](https://drive.google.com/file/d/1UQlcxMQkFMJKABH07qunUS-McYo7kqCE/view?usp=sharing) |
+
 | Feature | ByteTrack | BoT-SORT |
 |---|---|---|
 | Kalman Filter | ✅ | ✅ |
