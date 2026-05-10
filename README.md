@@ -126,6 +126,9 @@ across frames, and compare the performance of two state-of-the-art trackers.
 | **Precision** | **1.0000** | Zero false positives |
 | **Recall** | **0.9988** | Almost no cows missed |
 ---
+> **Note on mAP50-95 (pose):** The lower value (0.21) is expected for pose estimation —
+> at strict IoU thresholds (up to 0.95), keypoints must be placed near pixel-perfectly.
+> The mAP50 score of **0.82** is the more meaningful indicator of real-world performance.
 
 ### 🎬 Multi-Object Tracking Comparison
 
