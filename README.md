@@ -1,12 +1,6 @@
 # Computer-vision
 An end-to-end computer vision system implementing image analysis, object detection, and AI-driven visual intelligence using Python and deep learning frameworks. Designed for experimentation, learning, and real-world deployment.
 
-# CSE 445: Interpretable Computer Vision Labs
-
-This repository contains the laboratory notebooks for **CSE 445**, focusing on image representation, transfer learning, interpretability, and robustness analysis.
-
-**Current Focus:** Image Representation, CNNs (ConvNeXt), and Vision Transformers (ViT, Swin).
-
 
 ---
 
